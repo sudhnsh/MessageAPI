@@ -1,6 +1,6 @@
-# Sending SMS Using Twilio SMS API with FastAPI
+# Sending SMS Using Twilio SMS with FastAPI
 
-If you're looking to send SMS messages using the Twilio SMS API along with FastAPI, follow these installation and setup steps:
+If you're looking to send SMS messages using the Twilio SMS along with FastAPI, follow these installation and setup steps:
 
 ## Installation Steps:
 
